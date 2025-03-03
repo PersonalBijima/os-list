@@ -28,8 +28,8 @@
             "version": "bookworm"
         },
         {
-            "description": "The retro-gaming OS! CustomOS",
-            "group": "Custom OS",
+            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "group": "Games",
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
             "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
             "nominal_size": 7168,
